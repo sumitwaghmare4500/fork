@@ -1,0 +1,4 @@
+welcome to github journey
+
+we are creating our first repo
+this is cool
